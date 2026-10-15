@@ -1,4 +1,3 @@
-# Bank-Customer-Transaction-Prediction
 # Bank Customer Transaction Prediction
 
 ## 📌 Project Overview
